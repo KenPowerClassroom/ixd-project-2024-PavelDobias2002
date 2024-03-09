@@ -16,3 +16,58 @@ body{
   min-width: 200px;
   margin-right: 50%px;
 }
+
+#firstRow{
+  align-self: center;
+  text-align: middle;
+  margin: -1em -1em -1em -1em;
+  padding: 1em 1em 1em 1em;
+  border: 3px solid black;
+}
+
+#secondRow{
+  text-align: center;
+  margin: left;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 0.5em;
+  border: 3px solid black;
+}
+
+#thirdRow{
+  text-align: left;
+  margin: left;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 0.5em;
+  border: 3px solid black;
+}
+
+#thirdRowApps{
+  text-align: center;
+  margin: left;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 0.5em;
+  border: 3px solid black;
+}
+
+.evaluationRows{
+  text-align: left;
+  margin: left;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 0.5em;
+  border: 3px solid black;
+}
+
+#evaluationRows{
+  text-align: left;
+  margin: left;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 50%;
+  border: 3px solid black;
+}

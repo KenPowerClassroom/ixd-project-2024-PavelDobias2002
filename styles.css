@@ -17,6 +17,11 @@ body{
   margin-right: 50%px;
 }
 
+table{
+  border-collapse: collapse;
+
+}
+
 #firstRow{
   align-self: center;
   text-align: middle;

@@ -28,6 +28,7 @@ table{
   margin: -1em -1em -1em -1em;
   padding: 1em 1em 1em 1em;
   border: 3px solid black;
+  width: 1000px;
 }
 
 #secondRow{
@@ -37,6 +38,7 @@ table{
   padding-bottom: 0.5em;
   padding-left: 0.5em;
   border: 3px solid black;
+  width: 1000px;
 }
 
 #thirdRow{
@@ -46,6 +48,7 @@ table{
   padding-bottom: 0.5em;
   padding-left: 0.5em;
   border: 3px solid black;
+  width: 1000px;
 }
 
 #thirdRowApps{
@@ -55,6 +58,7 @@ table{
   padding-bottom: 0.5em;
   padding-left: 0.5em;
   border: 3px solid black;
+  width: 1000px;
 }
 
 .evaluationRows{
@@ -64,6 +68,7 @@ table{
   padding-bottom: 0.5em;
   padding-left: 0.5em;
   border: 3px solid black;
+  width: 1000px;
 }
 
 #evaluationRows{
@@ -75,4 +80,5 @@ table{
   padding-right: 1em;
   width: 50%;
   border: 3px solid black;
+  width: 1000px;
 }
